@@ -1,0 +1,1 @@
+docker build -t discord_bot_image .
